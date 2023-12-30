@@ -31,10 +31,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="firebase" **alt="firebase" width="40" height="40"/>
 </div>
 <br>
-<div align=center>
-  <img src="https://media.tenor.com/63wZeqYLV64AAAAC/gto-anime.gif" width="300"/>
-  <img src="https://i.pinimg.com/originals/96/24/f7/9624f7beb185c5aafbbb870e61aee4cf.gif" width="300" height='208'/>
-</div>
 <!--
 **Kenmuraki5/Kenmuraki5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
