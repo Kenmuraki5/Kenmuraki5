@@ -16,7 +16,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="vuejs" alt="vuejs" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="tailwindcss" alt="tailwindcss" width="40" height="40"/>&nbsp;
+  <img src="https://devicon-website.vercel.app/api/nuxtjs/original.svg" title="nuxt" **alt="nuxt" width="40" height="40"/>
+  <img src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg" title="tailwindcss" alt="tailwindcss" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bulma/bulma-plain.svg"  title="bulma" alt="bulma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"  title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
@@ -29,6 +30,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="firebase" **alt="firebase" width="40" height="40"/>
+  <img src="https://devicon-website.vercel.app/api/nestjs/plain.svg" title="nestjs" **alt="nestjs" width="40" height="40"/>
+  <img src="https://devicon-website.vercel.app/api/amazonwebservices/plain-wordmark.svg" title="aws" **alt="aws" width="40" height="40"/>
+  <img src="https://devicon-website.vercel.app/api/mongodb/original.svg" title="mongodb" **alt="mongodb" width="40" height="40"/>
+  <img src="https://devicon-website.vercel.app/api/flask/original.svg" title="flask" **alt="flask" width="40" height="40"/>
 </div>
 <br>
 <!--
